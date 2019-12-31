@@ -1,0 +1,10 @@
+This program consists of two python files. 
+One is cnf.py which converts clauses into cnf. 
+Another is problems.py which contains 2 methods - model checking and resolution to solve the problems given.
+
+Run problems.py to see results.
+
+Team: Yuxin Liu (yliu198), Sining Qu (squ8) 
+
+Unhashtag line 80-83 in problems.py to see truth table.
+Unhashtag line 166 in problems.py to see how the resolving process look like.
